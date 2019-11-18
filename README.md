@@ -1,1 +1,1 @@
-# maana-q-scalars
+# maana-dsp-helper
